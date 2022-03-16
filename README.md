@@ -1,24 +1,3 @@
-# vue-zujian
+# 音乐在线pc网
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### 本项目使用了网易云音乐提供的API，进行音乐pc网站的开发，好看的前端设计，该项目主要考核css和html功底，使用原生前端样式编写+vue+axios实现一个好看的音乐网站
